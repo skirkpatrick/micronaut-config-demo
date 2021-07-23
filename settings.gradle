@@ -1,0 +1,3 @@
+rootProject.name="microtest"
+include 'application'
+include 'library'

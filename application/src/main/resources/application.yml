@@ -1,0 +1,13 @@
+micronaut:
+  application:
+    name: microtest
+
+pets:
+  milo:
+    name: Milo
+    breed: Tabby
+    color: Orange
+  otis:
+    name: Otis
+    breed: Pug
+    color: Fawn
